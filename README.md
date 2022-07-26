@@ -1,5 +1,11 @@
 # Equalize Edge
 This addon makes the selected edges same length. The length criterion is the active edge.
-※ use only edge ring selection.
+
 ![](./demo.png)
 
+※ use only edge ring selection.
+
+Problem
+---
+- Select scale orientation
+- Usable on UV editor
